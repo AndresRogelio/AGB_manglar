@@ -1,4 +1,4 @@
-# Cálculo de Biomasa Aérea de Manglares (AGB)
+# Cálculo de Biomasa Aérea de Manglares del Río Juan Diaz
 
 Este repositorio contiene un script en R que calcula la biomasa aérea de los manglares (AGB) utilizando ecuaciones alométricas basadas en el diámetro a la altura del pecho (DBH) de los árboles. Se utilizan datos de un inventario de manglares en Juan Díaz para realizar este análisis.
 
