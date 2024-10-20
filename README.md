@@ -11,12 +11,12 @@ Este repositorio contiene un script en R que calcula la biomasa aérea de los ma
 
 1. **Ecuación de Day et al. (1987)**:
    \[
-   $\sqrtAGB = \exp(-1.5852) \times (DBH)^{2.3023}
+   $\sqrtAGB = \exp(-1.5852) \times (DBH)^{2.3023}$
    \]
 
 2. **Ecuación de Fromard et al. (1998)**:
    \[
-   $\sqrtAGB = 0.14 \times (DBH)^{2.4}
+   $\sqrtAGB = 0.14 \times (DBH)^{2.4}$
    \]
 
 ## Requisitos
